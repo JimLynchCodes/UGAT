@@ -1,2 +1,2 @@
-# UGAT
-Ultimate Guidebook for Automated Testing
+# Ultimate Guidebook for Automated Testing
+
